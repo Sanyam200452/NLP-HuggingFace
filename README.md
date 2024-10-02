@@ -2,7 +2,7 @@
 This repo contains notebooks and links of the NLP models on the hugging-face website that i fine-tuned or made from scratch using the transformers library by huggingface.
 
 ## Token Classification(POS Tagging)
-Notebook: https://colab.research.google.com/drive/1ljdlRFecoy-jkemi97pV9qvNskZkrYnl
+Notebook: https://github.com/Sanyam200452/NLP-HuggingFace/blob/main/Token_Classification.ipynb
 Huggingface Model Link: https://huggingface.co/Sanyam52/bert-pos-tagging
 
 POS tagging means to Mark each word in a sentence as corresponding to a particular part of speech (such as noun, verb, adjective, etc).
