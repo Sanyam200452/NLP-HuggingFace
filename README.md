@@ -15,6 +15,13 @@ Validation Loss: 0.5308
 'overall_accuracy': 0.8086042374251982
 
 ## Translation
+Finetuned MarianMT model for translating from english to shakespearean
+Dataset Used is called Shakespearify.csv(don't have the link now, but I uploaded the csv file above)
+Achieved a validation loss of 2.14 and a training loss of 2.03 by training over 40000 rows of data for 3 epochs
+BLEU Score couldn't be calculated because it needs a lot of computational power
+Notebook Link: https://github.com/Sanyam200452/NLP-HuggingFace/blob/main/Translation.ipynb
+Model Link: https://huggingface.co/Sanyam52/marian-finetuned-english-to-shakesperian
+
+## Summarization, Extractive Question Answering are on the way(Don't hold your breath)
 
 
-## Summarization, Extractive Question Answering are on the way
