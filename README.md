@@ -5,7 +5,7 @@ This repo contains notebooks and links of the NLP models on the hugging-face web
 Notebook: https://github.com/Sanyam200452/NLP-HuggingFace/blob/main/Token_Classification.ipynb
 <br>
 Huggingface Model Link: https://huggingface.co/Sanyam52/bert-pos-tagging
-
+<br>
 POS tagging means to Mark each word in a sentence as corresponding to a particular part of speech (such as noun, verb, adjective, etc).
 I fine-tuned bert on conll dataset for POS tagging and results:
 Train Loss: 0.6701
@@ -21,6 +21,7 @@ Notebook Link: https://github.com/Sanyam200452/NLP-HuggingFace/blob/main/Transla
 Model Link: https://huggingface.co/Sanyam52/marian-finetuned-english-to-shakesperian
 <br>
 Deployed Model on Huggingface Link: https://huggingface.co/spaces/Sanyam52/shakespearean_translation
+<br>
 Finetuned MarianMT model for translating from english to shakespearean
 Dataset Used is called Shakespearify.csv(don't have the link now, but I uploaded the csv file above)
 Achieved a validation loss of 2.14 and a training loss of 2.03 by training over 40000 rows of data for 3 epochs
