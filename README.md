@@ -21,6 +21,7 @@ Achieved a validation loss of 2.14 and a training loss of 2.03 by training over 
 BLEU Score couldn't be calculated because it needs a lot of computational power
 Notebook Link: https://github.com/Sanyam200452/NLP-HuggingFace/blob/main/Translation.ipynb
 Model Link: https://huggingface.co/Sanyam52/marian-finetuned-english-to-shakesperian
+Deployed Model on Huggingface Link: https://huggingface.co/spaces/Sanyam52/shakespearean_translation
 
 ## Summarization, Extractive Question Answering are on the way(Don't hold your breath)
 
